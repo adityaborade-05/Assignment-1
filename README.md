@@ -1,6 +1,5 @@
 ## Git Assignment Submission
 
-## Candidate
 Name: Aditya Borade
 
 ## Tasks Completed
