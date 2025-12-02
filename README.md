@@ -12,7 +12,7 @@ Name: Aditya Borade
 
 ## Branches Used
 - main
-- feature-branch
+- new-branch
 
 ## Tools Used
 - Git
